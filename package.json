@@ -1,0 +1,16 @@
+{
+    "name": "mayuweb",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Cristhian",
+    "contributors": [],
+    "dependencies": {
+        "popper.js": "^1.12.9"
+    }
+}
